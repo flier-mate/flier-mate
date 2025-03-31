@@ -2,7 +2,7 @@
 
 I am also known as MatQuasar.
 
-BGGP is an annual small file competition organized by @netspooky.
+BGGP is an annual small file competition organized by [@netspooky](https://github.com/netspooky).
 Below were forum posts I made for them:
 - https://forum.lowyat.net/index.php?showtopic=5017150 (BGGP 1)
 - https://forum.lowyat.net/index.php?showtopic=5178577 (BGGP 2)
