@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 I am also known as MatQuasar.
+
+BGGP is an annual small file competition organzed by @netspooky.
+Below were forum posts I made for them:
+- https://forum.lowyat.net/index.php?showtopic=5017150 (BGGP 1)
+- https://forum.lowyat.net/index.php?showtopic=5178577 (BGGP 2)
+- https://forum.lowyat.net/index.php?showtopic=5282635 (BGGP 3)
+- https://forum.lowyat.net/index.php?showtopic=5388598 (BGGP 4)
+- 
 <!--
 **flier-mate/flier-mate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
